@@ -1,0 +1,3 @@
+data,nome_cliente,placa,ano_veiculo,telefone_whatsapp,modelo_veiculo,cor,tipo_servico,tipo_lavagem,data_servico,valor_cobrado,hora,observacoes,produtos_utilizados,status_registro,excluido_por,motivo_exclusao,data_exclusao
+2026-10-02,mari dias,RJ 22 OP 23,2020,0000 0000,corsa,cinza,Polimento,Completa,2026-10-02,50.0,17:55,amassado na porta do motorista,"Delete, shampoo, restaurax, pretinho",Ativo,,,
+2026-10-02,mario rsrsrsrs,EE44RR55,2019,8888 8888,parati,amarelo,Lavagem,Completa,2026-10-02,100.0,19:39,carro em excelente estado de conservação,todos,Ativo,,,
